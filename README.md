@@ -9,6 +9,11 @@ utl-simple-eleganct-matrix-operations-in-r
            2 matrix functions
            3 matrix algebra regression
 
+    github                                                                                 
+    https://tinyurl.com/ndbzparn                                                           
+    https://github.com/rogerjdeangelis/utl-simple-eleganct-matrix-operations-in-r/tree/main
+
+
     SOAPBOX ON
 
     Why R matrix language ca easily solves so may problems
