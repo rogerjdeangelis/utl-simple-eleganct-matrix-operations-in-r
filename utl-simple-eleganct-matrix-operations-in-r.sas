@@ -9,6 +9,10 @@
 
 SOAPBOX ON
 
+github                                                                                 
+https://tinyurl.com/ndbzparn                                                           
+https://github.com/rogerjdeangelis/utl-simple-eleganct-matrix-operations-in-r/tree/main
+
 Why R matrix language ca easily solves so may problems
 
 Probably because R has roots in the Bell Labs S language.
