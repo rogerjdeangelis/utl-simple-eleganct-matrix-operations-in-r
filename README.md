@@ -220,17 +220,17 @@ utl-simple-eleganct-matrix-operations-in-r
     /*  [2,]  794 1454 2114                                                                                                   */
     /*  [3,] 1154 2114 3074                                                                                                   */
     /*                                                                                                                        */
-    /*  > nonsingular=sqrt(mat) # make nonsigular. Rows of mat are not linearly independent                                   */
-    /*  > solve(nonsingular) # inverse of mat                                                                                 */
+    /*  > singular=sqrt(mat) # make nonsigular. Rows of mat are not linearly independent                                   */
+    /*  > solve(singular) # inverse of mat                                                                                 */
     /*         [,1]      [,2]      [,3]                                                                                       */
     /*  x -571.7534  1534.493 -922.2082                                                                                       */
     /*  y 1166.0797 -3160.630 1906.7580                                                                                       */
     /*  z -594.1192  1625.107 -983.6457                                                                                       */
     /*                                                                                                                        */
-    /*  > det(nonsingular) # determinant                                                                                      */
+    /*  > det(nosingular) # determinant                                                                                      */
     /*  [1] 0.0003234484                                                                                                      */
     /*                                                                                                                        */
-    /*  > round(solve(nonsingular) %*% nonsingular) # identity matrix                                                         */
+    /*  > round(solve(singular) %*% singular) # identity matrix                                                         */
     /*    x y z                                                                                                               */
     /*  x 1 0 0                                                                                                               */
     /*  y 0 1 0                                                                                                               */
